@@ -92,7 +92,7 @@ body {
 footer {
   background-color: #222;
   color: #ccc;
-  font-size: 3rem; /* 1rem * 3 */
+  font-size: 1rem; 
   text-align: center;
   padding: 60px 15px; /* reduced from 90px 30px */
   margin-top: 40px; /* reduced from 240px */
