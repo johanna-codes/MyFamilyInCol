@@ -1,7 +1,7 @@
 /* Reset and base styles */
 body {
   font-family: Arial, sans-serif;
-  font-size: 30px; /* 18px * 3 */
+  font-size: 16px; 
   margin: 0;
   padding: 0;
   background-color: #fff;
@@ -34,7 +34,7 @@ body {
 .top-nav ul li a {
   color: #fff;
   text-decoration: none;
-  font-size: 3.6rem; /* 1.2rem * 3 */
+  font-size: 1.2rem; 
   font-weight: 600;
   transition: color 0.3s ease;
 }
@@ -47,7 +47,7 @@ body {
 .container {
   width: 100%;
   max-width: auto;
-  margin: 300px 200px 300 300px; /* TOP RIGHT BOTTOM LEFT;*/
+  margin: 60px 20px 60px 20px; /* TOP RIGHT BOTTOM LEFT;*/
   text-align: center;
 }
 
@@ -71,13 +71,13 @@ body {
 }
 
 .destination {
-  width: 900px;             /* fixed width for all cards */
+  width: 300px;             
   text-align: center;
 }
 
 .destination img {
   width: 100%;              /* fills .destination */
-  height: 600px;            /* fixed height */
+  height: 200px;            /* fixed height */
   object-fit: cover;        /* ensures images stay same size and crop nicely */
   border-radius: 30px; 
   box-shadow: 0 12px 18px rgba(0,0,0,0.1);
